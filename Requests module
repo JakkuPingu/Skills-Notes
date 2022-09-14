@@ -1,0 +1,23 @@
+# Requests Module
+
+## Steps for GET request
+
+```
+$ import Requests
+
+$ URL = "Enter URL here"
+
+$ r = requests.get(URL)
+
+$ print(r.text)
+```
+
+## Steps for Json request
+
+```
+URL must have Json
+
+$ print(r.json())
+```
+
+## 
