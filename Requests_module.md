@@ -19,5 +19,3 @@ URL must have Json
 
 $ print(r.json())
 ```
-
-## 
