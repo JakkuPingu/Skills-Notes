@@ -15,8 +15,8 @@ $ print(r.text)
 ## Changing Headers
 
 ```
-
 Example used is User-Agent
+
 $ headers = {"user-agent": "Googlebot/2.1"}
 
 $ r = requests.get(URL, headers=headers)
