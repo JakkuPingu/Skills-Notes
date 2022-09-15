@@ -44,6 +44,17 @@ $ r = requests.post(URL, data=payloads)
 $ print(r.text)
 ```
 
+## Getting back headers
+```
+$ import Requests
+
+$ URL = "Enter URL here"
+
+$ r = requests.get(URL)
+
+$ print(r.headers)
+```
+
 ## Steps for Json request
 
 ```
