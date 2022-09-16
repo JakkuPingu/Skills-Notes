@@ -53,7 +53,7 @@ notepad.exe <path>
 delete
 ```
 
-### Linux commands
+# Linux commands
 
 ## Show disc usage
 
@@ -133,7 +133,13 @@ id
 Whoami
 ```
 
-### Python
+## Search inside a manual
+
+```
+apropos -e <text>
+```
+
+# Python
 
 setup Virtual Enviroment
 
